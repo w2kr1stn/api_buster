@@ -6,9 +6,9 @@ setup_config = {"name": "api_buster",
                 "version": "1.0.0",
                 "description": "Web app for process automation of critical McMakler business process",
                 "url": "PLACEHOLDER",
-                "author": "Willi Kristen",
-                "author_mail": "willi.kristen@live.de",
-                "license": "Willi Kristen Proprietary"}
+                "author": "wallace schwein",
+                "author_mail": "73987905+w2kr1stn@users.noreply.github.com",
+                "license": "wallace schwein Proprietary"}
 
 install_requires = ["certifi==2022.6.15",
                     "charset-normalizer==2.1.0",
